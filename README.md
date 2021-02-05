@@ -1,15 +1,14 @@
 # Bruin-FitnessPal
-A web application designed for fitness pro
-<br/>
 
 # Introduction <br />
 Bruin FitnessPal is dedicated to motivate people to stay healthy <br/>
-by providing a highly sociable, Instagram-like fitness platform <br/>
-for users to share and exchange their workout and diet logs + plans. <br/>
-This client-server web application includes features such as <br/>
-user registration, login, profiling, logging, and planning of  <br/>
-diet, water consumption, hours of sleep, and type and duration of exercise <br/>
-finally, a social platform pabe that allows the sharing of the aforementioned <br/>
+by providing a sociable fitness platform for users to share and </br>
+exchange their workout and diet logs and plans. This client-server </br>
+web application includes features such as user registration, login, </br>
+workout planning, logging of diet, water consumption, hours of sleep, </br>
+and type and duration of exercise, and, finally, a social page that </br>
+allows the sharing of activities done today with friends. </br>
+
 
 
 ## Get Started <br/>
